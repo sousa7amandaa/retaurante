@@ -1,4 +1,4 @@
-paginas 
+paginas:
 -incial
 -sobre
 -resevras
