@@ -1,2 +1,7 @@
 paginas 
 -incial
+-sobre
+
+objetivo:
+-modelar uma pagina web
+-moledar uma aplicativo
