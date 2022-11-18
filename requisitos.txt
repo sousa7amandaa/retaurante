@@ -1,7 +1,13 @@
 paginas 
 -incial
 -sobre
+tecnologia:
+-HTML
+-CSS
+-javascript
+cliente:
+-restaurante Escola Senac MA
 
-objetivo:
+objetivos:
 -modelar uma pagina web
 -moledar uma aplicativo
