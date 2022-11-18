@@ -1,11 +1,17 @@
 paginas 
 -incial
 -sobre
+-resevras
+-cardápio
+-avaliações
 
 tecnologia:
 -HTML
 -CSS
 -javascript
+React
+-Figma
+
 cliente:
 -restaurante Escola Senac MA
 
